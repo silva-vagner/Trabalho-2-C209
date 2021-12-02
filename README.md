@@ -22,4 +22,4 @@ O Objetivo deste trabalho é fazer uma demonstração da implementação do algo
 #### Importe o conteúdo do projeto para sua IDE de preferência e execute o arquivo "yolo_object_detection.py"
 #### Uma imagem deve aparecer com os objetos detectados envolvidos em retângulos com o nome da sua categoria
 
-#### Para utilizar uma outra imagem basta substituir o arquivo "image.jpeg" pela sua imagem de preferência ou adicionar a imagem à pasta do projeto e substituir o nome do arquivo na linha 14 do arquivo "yolo_object_detection.py" pelo nome do arquivo que se deseja fazer a análise.
+#### Para utilizar uma outra imagem, basta substituir o arquivo "image.jpeg" pela sua imagem de preferência, outra alternativa é adicionar a nova imagem à pasta do projeto e substituir o nome do arquivo na linha 14 do arquivo "yolo_object_detection.py" pelo nome do arquivo que se deseja fazer a análise.
